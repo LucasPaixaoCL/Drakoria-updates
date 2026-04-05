@@ -3,7 +3,7 @@ const crypto = require('crypto');
 const path = require('path');
 
 // URLs DE HOSPEDAGEM
-const BASE_URL = 'https://LucasPaixaoCL.github.io/Drakoria-updates/';
+const BASE_URL = 'https://raw.githubusercontent.com/LucasPaixaoCL/Drakoria-updates/main/';
 // O link de download do Release que criaremos
 const RELEASE_URL = 'https://github.com/LucasPaixaoCL/Drakoria-updates/releases/download/assets/';
 
